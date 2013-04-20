@@ -2,6 +2,8 @@ These are code and resources I am using to try out the "10 PRINT" Commodore-64
 program using assembly language.  Also known as "threadbare".  See the book,
 http://10print.org/
 
+Everything I add is public domain.  Licenses of all the other stuff confuses me.
+
 I am too new to all of this to write detailed instructions, but this is a rough
 outline of how to get it to work:
 
