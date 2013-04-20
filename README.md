@@ -46,7 +46,7 @@ You can run a .prg file with vice command line:
 The keycomp.prg runs by itself.  If you want to run the "10 print" or 
 "threadbare" program, you need to:
 
-    acme 10print.a
+    acme 10print.asm
     x64 10print.prg
     
 Then, at the READY prompt, type
